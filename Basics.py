@@ -1,3 +1,4 @@
+#Basic of Python 
 # Variables and basic data types
 name = "Arafat"  # String variable
 age = 25  # Integer variable
