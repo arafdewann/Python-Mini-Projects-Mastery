@@ -8,3 +8,4 @@
 
 # All Projects
 - Basics - This repository contains a simple Python script that demonstrates basic programming concepts. It includes examples of variables, conditionals, loops, functions, lists, and file handling. Each section is accompanied by short comments to help beginners understand how Python works.
+- Restaurant Basic - In this project, I built a simple restaurant ordering system using Python. It handles user input flexibly, calculates order totals, and manages menu items efficiently. This helped me practice user-friendly input handling, conditional logic, and dictionary usage.
