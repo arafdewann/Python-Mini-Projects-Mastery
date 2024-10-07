@@ -11,7 +11,7 @@ This repository contains a collection of Python mini-projects designed to enhanc
 [![Issues][issues-shield]][issues-url]
 
 <div style="text-align: center;">
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python Gif" width="150px"/>
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python Gif" width="185px"/>
 </div>
 
 ## All Projects
