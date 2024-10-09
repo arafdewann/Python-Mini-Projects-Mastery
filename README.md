@@ -2,7 +2,7 @@
 
 # Python-Mini-Projects-Mastery
 
-This repository contains a collection of Python mini-projects designed to enhance your coding skills and mastery of Python. Each project is crafted to cover key programming concepts, algorithms, and real-world applications. ✅
+This repository contains a collection of Python mini-projects designed to enhance your coding skills and mastery of Python. Each project is crafted to cover key programming concepts, algorithms, and real-world applications. 
 
 <!-- PROJECT SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
