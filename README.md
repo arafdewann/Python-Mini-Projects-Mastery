@@ -24,6 +24,8 @@ This repository contains a collection of Python mini-projects designed to enhanc
 
 - **KanyeQuotes**  
   This project gets random quotes from Kanye West using an API and shows them. It's a fun and easy way to see Kanye's unique thoughts. This will allow you to understand API's.
+- ** School Grading System **
+  This school grading system project teaches you object-oriented programming concepts, including classes, methods, and encapsulation. You'll learn how to manage student data, calculate averages, assign letter grades, and display comprehensive reports programmatically.
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
