@@ -1,6 +1,7 @@
 <a id="readme-top"></a>
 
 # Python-Mini-Projects-Mastery
+## Let's do this ⚡️
 
 This repository contains a collection of Python mini-projects designed to enhance your coding skills and mastery of Python. Each project is crafted to cover key programming concepts, algorithms, and real-world applications. 
 
