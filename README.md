@@ -15,7 +15,7 @@ This repository contains a collection of Python mini-projects designed to enhanc
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python Gif" width="185px"/>
 </div>
 
-## All Projects
+## All Projects - Python
 
 - **Basics**  
   This repository contains a simple Python script that demonstrates basic programming concepts. It includes examples of variables, conditionals, loops, functions, lists, and file handling. Each section is accompanied by short comments to help beginners understand how Python works.
